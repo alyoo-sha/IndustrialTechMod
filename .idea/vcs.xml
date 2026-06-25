@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/IndustrialTech" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/IndustrialTech_AE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/IndustrialTech_Crafting" vcs="Git" />
+  </component>
+</project>
