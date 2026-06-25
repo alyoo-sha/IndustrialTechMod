@@ -1,0 +1,9 @@
+[submodule "modules/IndustrialTech"]
+	path = modules/IndustrialTech
+	url = https://github.com/alyoo-sha/IndustrialTech.git
+[submodule "modules/IndustrialTech_AE"]
+	path = modules/IndustrialTech_AE
+	url = https://github.com/alyoo-sha/IndustrialTech_AE.git
+[submodule "modules/IndustrialTech_Crafting"]
+	path = modules/IndustrialTech_Crafting
+	url = https://github.com/alyoo-sha/IndustrialTech_Crafting.git
